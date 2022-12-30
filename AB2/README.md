@@ -1,0 +1,1 @@
+O tipo de analisador selecionado foi o Analisador Preditivo Recursivo
